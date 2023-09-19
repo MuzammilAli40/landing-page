@@ -9,7 +9,7 @@
 }
 .main {
   padding: 50px 100px !important;
-  background-image: url(../images/bg-1.jpg);
+  background-image: url(/images/bg-1.jpg);
   /* height: 100vh; */
   box-sizing: border-box;
   background-size: cover;
